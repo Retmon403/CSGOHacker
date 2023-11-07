@@ -1,9 +1,10 @@
 # CSGOHacker
 
-csgo 1 dx9 hook hacker
+csgo hacker
 
-esp
-aim
-auto fire
-auto jump
-...
+imgui hook d3d9
+1.esp
+2.aim
+3.trigger
+4.bhop
+5.no recoil
